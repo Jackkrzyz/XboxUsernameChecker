@@ -11,5 +11,3 @@
 
 
 
-thanks [kxrn](https://github.com/kxrn) for the rotating proxy code! 
-
